@@ -31,13 +31,15 @@ pip install pandas seaborn matplotlib scikit-learn tkinter
 
 1. Ensure that the dataset file (`News.csv`) are present in the same directory as the `app.py` file.
 
-2. Run the `app.py` file using Python:
+2. The dataset can be downloaded from `https://drive.google.com/file/d/1q5jpI5M1EA9x3YPrLupmiu3gffkmGlHj/view` 
 
-3. The GUI window will open. Enter the news article text to be classified in the provided input field.
+3. Run the `app.py` file using Python:
 
-4. Click the "Classify" button to classify the news article as fake or not fake.
+4. The GUI window will open. Enter the news article text to be classified in the provided input field.
 
-5. A message box will display the classification result.
+5. Click the "Classify" button to classify the news article as fake or not fake.
+
+6. A message box will display the classification result.
 
 ## Pre-trained Models
 
