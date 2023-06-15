@@ -1,4 +1,4 @@
-# FakeNewsDetectionAIML
+# Fake News Detection Project AIML
 # Fake News Classification
 
 This project implements a machine learning model to classify news articles as either fake or not fake (real). The model is trained using the Logistic Regression and Decision Tree algorithms. The implementation includes a GUI application built with Tkinter for real-time classification of news articles.
@@ -52,7 +52,7 @@ The trained models are saved in the following files:
 The models are loaded at runtime if the corresponding model files exist. If the model files are not found, the models are trained and saved for future use.
 
 
-Feel free to modify and use the code according to your requirements.
+
 
 
 
